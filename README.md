@@ -1,4 +1,4 @@
 Required
 * library: numpy;
-* directory for input: ./input;
-* directory for output: ./output.
+* directory for input: `./input`;
+* directory for output: `./output`.
