@@ -1,7 +1,7 @@
 Required
 
-library: numpy;
+* library: numpy;
 
-directory for input: ./input;
+* directory for input: ./input;
 
-directory for output: ./output.
+* directory for output: ./output.
